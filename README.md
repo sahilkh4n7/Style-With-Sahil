@@ -1,32 +1,42 @@
-# Web-Development-Project_1
-Website Using Html and CSS using Media Queries
-# Style With Sahil ✨
+🌟 Style With Sahil
+Style With Sahil is a clean, modern fashion blog website that features curated articles on streetwear, culture, lifestyle, and personal expression — all presented in a responsive grid layout.
 
-**A modern, responsive fashion blog website** built using HTML and CSS.  
-This project showcases a grid of blog cards featuring diverse fashion themes, author details, and tags — all beautifully styled for both mobile and desktop screens
+📌 About the Project
+This project is a front-end only fashion blog built using pure HTML and CSS. The focus is on delivering visually appealing blog cards that adapt to different screen sizes, offering readers an engaging experience across devices.
 
-## 📸 Features
-- Responsive grid layout using CSS Grid
-- Image cards with hover zoom effect
-- Lazy-loaded images for performance
-- Stylish typography and layout
-- Avatar-based author sections
-- Thematic blog categories like *Fashion*, *Lifestyle*, and *Culture*
+💡 Features
+Mobile-first, responsive design
 
-## 🛠️ Tech Stack
-- HTML5
-- CSS3 (Media Queries, Flexbox, Grid)
-- Responsive design principles
+Smooth hover effects and image zoom
 
-## 📁 Folder Structure
-/project-root
-│
-├── index.html
-├── styles.css
+Lazy-loading for better performance
 
+Grid layout that adjusts from 1 to 4 columns
 
- ## 📌 Future Improvements
-- Add blog content pages
-- Integrate JavaScript for interactivity
-- Enable dark mode toggle
-- Host on GitHub Pages or Netlify
+Clean and semantic HTML structure
+
+🖼 What’s Inside
+This website includes multiple fashion-focused blog entries, such as:
+
+Streetwear Comeback 2025
+
+Sneaker Culture: More Than Just Shoes
+
+Monochrome Power Looks
+
+Cultural Threads: Modern Ethnic Fusion
+
+Inked Identity: Tattoo Culture Today
+
+Each card includes a title, description, author info, and a tag for easy categorization.
+
+🧱 Built With
+HTML5
+
+CSS3 (Flexbox and Grid)
+
+No frameworks or JavaScript
+
+👤 Author
+Created by Sahil Khan
+A creative front-end developer passionate about fashion, design, and user experience.
